@@ -101,4 +101,4 @@ https://en.wikipedia.org/wiki/Password_cracking#Software
 
 https://en.wikipedia.org/wiki/Salt_(cryptography)
 
-https://hashcat.com
+https://hashcat.net/hashcat/
