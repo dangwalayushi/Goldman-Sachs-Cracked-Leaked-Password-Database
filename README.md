@@ -88,4 +88,17 @@ f6a0cb102c62879d397b12b62c092c06:bluered
 25d55ad283aa400af464c76d713c07ad:12345678
 5f4dcc3b5aa765d61d8327deb882cf99:password
 8d763385e0476ae208f21bc63956f748:moodie00
+```
+Complete Report:
+https://github.com/dangwalayushi/Goldman-Sachs-Cracked-Leaked-Password-Database/blob/main/Goldman%20Sachs%20Internship%20Report.pdf
 
+### RESOURCES:
+https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
+
+https://howsecureismypassword.net/
+
+https://en.wikipedia.org/wiki/Password_cracking#Software
+
+https://en.wikipedia.org/wiki/Salt_(cryptography)
+
+https://hashcat.com
